@@ -2,3 +2,4 @@ Ds_store
 log/*.log
 tmp/**/*
 config/database.yml
+db/*.sqlite3
